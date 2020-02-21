@@ -3,11 +3,11 @@
 ## 本人在Github中的部分资源 
  (注意下载代码时都： git clone "xxx.url" --recursive )
 
-- [chrome's bookmarks, 本人从2017到目前一直关注及了解的技术痕迹，](https://github.com/oudream/bookmarks)
+- [chrome's bookmarks: 本人从2017到目前一直关注及了解的技术痕迹，](https://github.com/oudream/bookmarks)
 
-- [(c, c++, unix4, posix)跨平台库系统库（历经三年多持续开发及项目使用），并入unit test、benchmark test、cmake、进程监测、守护程序、异步库libuv、lua、cpython、re2、json、yaml、mysql、redis、opencv、qt、lz4、oci……]
+- [(c, c++, unix4, posix)跨平台库系统库（历经三年多持续开发及项目使用），并入unit test、benchmark test、cmake、进程监测、守护程序、异步库libuv、lua、cpython、re2、json、yaml、mysql、redis、opencv、qt、lz4、oci……]()
 
-- [](https://github.com/oudream/hello-socket-model)                                                 
+- [socket高并发解决方案](https://github.com/oudream/hello-socket-model)                                                 
  
 - [Linux Shell 的资料、入门、试验](https://github.com/oudream/hello-docker)
 
@@ -23,7 +23,7 @@
 
 - [java 语言的资料、入门、试验](https://github.com/oudream/hello-java)
 
-- [c# 语言的资料、入门、试验](https://github.com/oudream/hello-java)
+- [c# 语言的资料、入门、试验](https://github.com/oudream/hello-csharp)
 
 - [puppeteer 的资料、入门、试验](https://github.com/oudream/hello-java)
 
