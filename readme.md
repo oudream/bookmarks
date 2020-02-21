@@ -5,7 +5,7 @@
 
 - [chrome's bookmarks: 本人从2017到目前一直关注及了解的技术痕迹，](https://github.com/oudream/bookmarks)
 
-- [(c, c++, unix4, posix)跨平台库系统库（历经三年多持续开发及项目使用），并入unit test、benchmark test、cmake、进程监测、守护程序、异步库libuv、lua、cpython、re2、json、yaml、mysql、redis、opencv、qt、lz4、oci……]()
+- [(c, c++, unix4, posix)跨平台库系统库（历经三年多持续开发，作多个大型项目的底层支撑），并入unit test、benchmark test、cmake、进程监测、守护程序、异步库libuv、lua、cpython、re2、json、yaml、mysql、redis、opencv、qt、lz4、oci……](https://github.com/oudream/ccxx)
 
 - [socket高并发解决方案](https://github.com/oudream/hello-socket-model)                                                 
  
@@ -30,6 +30,8 @@
 - [excel 的资料、入门、试验](https://github.com/oudream/hello-excel)
 
 - [AI 的资料、入门、试验](https://github.com/oudream/hello-ai)
+
+- [dimi gcl3平台在hadoop的应用](https://github.com/oudream/dimi)
 
 - [2004~2005年做的网站](https://github.com/oudream/wwwroot)
 
