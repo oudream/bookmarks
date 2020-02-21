@@ -41,7 +41,7 @@
 
 - [其它(opencv、ffmpeg)不一一罗列，->](https://github.com/oudream)
 
-- PSM是2015年实现自设计及实现的私有规约，有[c++部分](https://github.com/oudream/ccxx/blob/master/ccxx/cxpacket.h)、[js](https://github.com/oudream/hello-nodejs/blob/master/3rd/csm-3/protocol_psm.js)、[java项目代码中不开放]三个版本
+- PSM是2015年实现自设计及实现的私有规约，有[c++ 开放部分](https://github.com/oudream/ccxx/blob/master/ccxx/cxpacket.h)、[js](https://github.com/oudream/hello-nodejs/blob/master/3rd/csm-3/protocol_psm.js)、[java项目代码中不开放]三个版本
 
 ## 部分 bookmark
 
