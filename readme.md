@@ -15,7 +15,11 @@
 
 - [(Node.js) 资料、入门、试验](https://github.com/oudream/hello-nodejs)
 
+- [ansible 资料、入门、试验](https://github.com/oudream/hello-ansible)
+
 - [(Docker, Dockerfiler) 资料、入门、试验](https://github.com/oudream/hello-docker)
+
+- [kubernetes 资料、入门、试验](https://github.com/oudream/hello-kubernetes)
 
 - [leetcode 算法的资料、入门、试验](https://github.com/oudream/leetcode)
 
