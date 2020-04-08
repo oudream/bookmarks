@@ -9,7 +9,11 @@
 
 ## c && c++ 方面
 
-- [(c, c++, unix4, posix)跨平台库系统库（历经三年多持续开发，作多个大型项目的底层支撑），并入unit test、benchmark test、cmake、进程监测、守护程序、异步库libuv、lua、cpython、re2、json、yaml、mysql、redis、opencv、qt、lz4、oci……](https://github.com/oudream/ccxx)
+- [c & c++ 跨平台基础库](https://github.com/oudream/ccxx)
+    > 1. 使用c语言与c++实现，核心部分只是使用clib与stl，系统实现部分直接调用相关操作系统API，完全兼容unix4, posix。
+    > 2. 此库已经并入unit test、benchmark test、cmake、进程监测、守护程序、异步库libuv、lua、cpython、re2、json、yaml、mysql、redis、opencv、openssl、qt、lz4、oci……
+    > 3. 此库并非从零起步，而是参照了 stl、boost、qt、ucommon。
+    > 4. 此库历经三年多持续开发，目前作为多个大型项目的底层支撑并正在运作着。
 
 - [Socket高并发解决方案](https://github.com/oudream/hello-socket-model)                                                 
 
