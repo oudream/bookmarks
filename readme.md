@@ -7,6 +7,7 @@
 - 文件[ chrome.bookmarks.html](https://github.com/oudream/bookmarks) 是一个网站地址的书签集。是分类记录了本人从2017以来，为了解技术而浏览的URL精选集。  
 - 使用方法：可以直接下载打开查看（但看起来不方便）。也可以在Chrome浏览器书签栏中导入书签，即可（这样使用起来方便点，效果在看底下图片）。
 
+
 ## C语言与C++ 方面
 
 - [C语言与C++ 跨平台基础库](https://github.com/oudream/ccxx)
@@ -17,64 +18,76 @@
 
 - [Socket高并发解决方案](https://github.com/oudream/hello-socket-model)                                                 
 
-- [Cmake 的资料、入门、试验](https://github.com/oudream/hello-cmake)
+- [Cmake 的资料、教程、试验](https://github.com/oudream/hello-cmake)
 
-- [LeetCode 算法的资料、入门、试验](https://github.com/oudream/leetcode)
+- [LeetCode 算法的资料、教程、试验](https://github.com/oudream/leetcode)
+
 
 ## AI 人工智能方面
 
-- [AI 的资料、入门、试验](https://github.com/oudream/hello-ai)
+- [AI 的资料、教程、试验](https://github.com/oudream/hello-ai)
 
-- [OpenCV 的资料、入门、试验](https://github.com/oudream/hello-opencv)
+- [OpenCV 的资料、教程、试验](https://github.com/oudream/hello-opencv)
 
-- [Excel 的资料、入门、试验](https://github.com/oudream/hello-excel)
+- [Excel 的资料、教程、试验](https://github.com/oudream/hello-excel)
+
 
 ## DevOps 
 
-- [Linux Shell 的资料、入门、试验](https://github.com/oudream/hello-docker)
+- [Linux Shell 的资料、教程、试验](https://github.com/oudream/hello-docker)
 
-- [Ansible 资料、入门、试验](https://github.com/oudream/hello-ansible)
+- [Ansible 资料、教程、试验](https://github.com/oudream/hello-ansible)
 
-- [(Docker, Dockerfiler) 资料、入门、试验](https://github.com/oudream/hello-docker)
+- [(Docker, Dockerfiler) 资料、教程、试验](https://github.com/oudream/hello-docker)
 
-- [Kubernetes 资料、入门、试验](https://github.com/oudream/hello-kubernetes)
+- [Kubernetes 资料、教程、试验](https://github.com/oudream/hello-kubernetes)
 
-- [Jenkins 资料、入门、试验](https://github.com/oudream/hello-jenkins)
+- [Jenkins 资料、教程、试验](https://github.com/oudream/hello-jenkins)
+
 
 ## Web
 
-- [(HTML5, CSS3, ES5) 资料、入门、试验](https://github.com/oudream/hello-web)
+- [HTML5, CSS3, ES5 资料、教程、试验](https://github.com/oudream/hello-web)
 
-- [Node.js 资料、入门、试验](https://github.com/oudream/hello-nodejs)
+- [Node.js 资料、教程、试验](https://github.com/oudream/hello-nodejs)
 
-- [Puppeteer 的资料、入门、试验](https://github.com/oudream/hello-java)
+- [Puppeteer 的资料、教程、试验](https://github.com/oudream/hello-java)
 
-- [Rest ( restful ) 的资料、入门、试验](https://github.com/oudream/hello-rest)
+- [Rest ( restful ) 的资料、教程、试验](https://github.com/oudream/hello-rest)
+
+- [Electron 的资料、教程、试验](https://github.com/oudream/hello-rest)
+
 
 ## Go 语言
 
-- [Go语言的资料、入门、试验](https://github.com/oudream/hello-go)
+- [Go语言的资料、教程、试验](https://github.com/oudream/hello-go)
+
 
 ## Python 语言
 
-- [Python语言的资料、入门、试验](https://github.com/oudream/hello-python)
+- [Python语言的资料、教程、试验](https://github.com/oudream/hello-python)
+
 
 ## Java 体系
-- [Gradle 的资料、入门、试验](https://github.com/oudream/hello-gradle)
+- [Gradle 的资料、教程、试验](https://github.com/oudream/hello-gradle)
 
-- [Java 语言的资料、入门、试验](https://github.com/oudream/hello-java)
+- [Java 语言的资料、教程、试验](https://github.com/oudream/hello-java)
 
-- [Spring 语言的资料、入门、试验](https://github.com/oudream/hello-spring)
+- [Spring 语言的资料、教程、试验](https://github.com/oudream/hello-spring)
+
 
 ## 大数据
 - [Dimi gcl3平台在hadoop的应用](https://github.com/oudream/dimi)
 
+
 ## c# 
-- [c# 语言的资料、入门、试验](https://github.com/oudream/hello-csharp)
+- [c# 语言的资料、教程、试验](https://github.com/oudream/hello-csharp)
+
 
 ## Unity （待建……）
 
 - []()
+
 
 ## 其它
 - [2004~2005年做的网站](https://github.com/oudream/wwwroot)
@@ -82,6 +95,14 @@
 - [其它(Hadoop、ffmpeg)不一一罗列，->](https://github.com/oudream)
 
 - PSM是2015年实现自设计及实现的私有规约，有[c++ 开放部分](https://github.com/oudream/ccxx/blob/master/ccxx/cxpacket.h)、[js](https://github.com/oudream/hello-nodejs/blob/master/3rd/csm-3/protocol_psm.js)、[java项目代码中不开放]三个版本
+
+
+## 本人常用技术栈及架构
+
+![](./images/Snipaste_2020-04-24_08-06-47.jpg)
+
+![](./images/Snipaste_2020-04-24_08-08-29.jpg)
+
 
 ## 部分 bookmark
 
