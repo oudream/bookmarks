@@ -1,6 +1,6 @@
 
 
-# 本人在Github中的部分资源 
+# 本人在Github中的部分资源(点击以下各链接进入)
 > 注意下载代码时都： git clone "https://github.com/oudream/xxx.git" --recursive  
 > 未列明的，请检阅：https://github.com/oudream?tab=repositories
 
