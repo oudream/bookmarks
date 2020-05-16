@@ -41,6 +41,7 @@
 
 
 ## Web
+- [ODL 比Swagger更省事的描述语言](https://github.com/oudream/odl)
 
 - [HTML5, CSS3, ES5 资料、教程、试验](https://github.com/oudream/hello-web)
 
@@ -52,11 +53,11 @@
 
 
 ## 中间件、API、通信协议
-- [Rest ( restful ) 的资料、教程、试验](https://github.com/oudream/hello-rest)
+- [Rest ( OpenApi Swagger ) 的资料、教程、试验](https://github.com/oudream/hello-rest)
 
 - [Protobuf 的资料、教程、试验](https://github.com/oudream/hello-protobuf)
 
-- [grpc 的资料、教程、试验](https://github.com/oudream/hello-grpc)
+- [gRPC 的资料、教程、试验](https://github.com/oudream/hello-grpc)
 
 
 ## Go 语言
