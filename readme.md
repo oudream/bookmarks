@@ -1,7 +1,7 @@
 
 # 各方面技术点击以下各链接
 
-## C语言与C++ 方面
+## C语言、C++ 方面
 
 - [C语言与C++ 跨平台基础库](https://github.com/oudream/ccxx)
     > 1. 使用c语言与c++实现，核心部分只是使用clib与stl，系统实现部分直接调用相关操作系统API，完全兼容unix4, posix。
@@ -14,6 +14,8 @@
 - [Cmake 的资料、教程、试验](https://github.com/oudream/hello-cmake)
 
 - [LeetCode 算法的资料、教程、试验](https://github.com/oudream/leetcode)
+
+- [Sqlite C ++ lightweight access interface](https://github.com/oudream/hello-sqlite)
 
 
 ## AI 人工智能方面
@@ -46,9 +48,15 @@
 
 - [Puppeteer 的资料、教程、试验](https://github.com/oudream/hello-java)
 
+- [Electron 的资料、教程、试验](https://github.com/oudream/hello-electron)
+
+
+## 中间件、API、通信协议
 - [Rest ( restful ) 的资料、教程、试验](https://github.com/oudream/hello-rest)
 
-- [Electron 的资料、教程、试验](https://github.com/oudream/hello-electron)
+- [Protobuf 的资料、教程、试验](https://github.com/oudream/hello-protobuf)
+
+- [grpc 的资料、教程、试验](https://github.com/oudream/hello-grpc)
 
 
 ## Go 语言
