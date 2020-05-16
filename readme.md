@@ -1,12 +1,5 @@
 
-
-# 本人在Github中的部分资源(点击以下各链接进入)
-> 注意下载代码时都： git clone "https://github.com/oudream/xxx.git" --recursive  
-> 未列明的，请检阅：https://github.com/oudream?tab=repositories
-
-- 文件[ chrome.bookmarks.html](https://github.com/oudream/bookmarks) 是一个网站地址的书签集。是分类记录了本人从2017以来，为了解技术而浏览的URL精选集。  
-- 使用方法：可以直接下载打开查看（但看起来不方便）。也可以在Chrome浏览器书签栏中导入书签，即可（这样使用起来方便点，效果在看底下图片）。
-
+# 各方面技术点击以下各链接
 
 ## C语言与C++ 方面
 
@@ -91,9 +84,6 @@
 - [架构的规范、文档、画图](https://github.com/oudream/hello-arch)
 
 
-- []()
-
-
 ## 其它
 - [2004~2005年做的网站](https://github.com/oudream/wwwroot)
 
@@ -109,7 +99,7 @@
 ![](./images/Snipaste_2020-04-24_08-08-29.jpg)
 
 
-## 部分 bookmark
+## bookmark：分类精集了各技术的官网、博客、论坛等URL  
 
 ![](./images/Snipaste_2020-02-21_12-57-56.jpg)
 
